@@ -34,13 +34,13 @@ public class WebCrawler {
             "ks\":[\"http://foo.bar.com/p5\"]},{\"address\":\"http://foo.bar." +
             "com/p5\",\"links\":[\"http://foo.bar.com/p1\"]},{\"address\":\"h" +
             "ttp://foo.bar.com/p6\",\"links\":[\"http://foo.bar.com/p1\"] } ] }";
-	private static final String INTERNET_THREE = "{\"pages\":[{\"address\":\"http://" +
+    private static final String INTERNET_THREE = "{\"pages\":[{\"address\":\"http://" +
             "foo.bar.com/p1\",\"links\":[\"http://foo.bar.com/p999999999\"]}," +
-			"{\"address\":\"http://foo.bar.com/p2\",\"links\":[\"http://foo.b" +
+	    "{\"address\":\"http://foo.bar.com/p2\",\"links\":[\"http://foo.b" +
             "ar.com/p3\"]},{\"address\":\"http://foo.bar.com/p3\",\"links\":[" +
-			"\"http://foo.bar.com/p4\"]},{\"address\":\"http://foo.bar.com/p4" +
+            "\"http://foo.bar.com/p4\"]},{\"address\":\"http://foo.bar.com/p4" +
             "\",\"links\":[\"http://foo.bar.com/p5\"]},{\"address\":\"http://" +
-			"foo.bar.com/p5\",\"links\":[\"http://foo.bar.com/p1\"]},{\"addre" +
+	    "foo.bar.com/p5\",\"links\":[\"http://foo.bar.com/p1\"]},{\"addre" +
             "ss\":\"http://foo.bar.com/p6\",\"links\":[\"http://foo.bar.com/p1\"]}]}";
 
 	/*Main Method Starts*/
